@@ -8,11 +8,11 @@ const Opcao = styled.li`
     text-align: center;
     height: 100%;
     padding: 0 5px;
+    cursor: pointer;
     min-width: 120px;
 `
-
 const Opcoes = styled.ul`
-  display: flex;
+    display: flex;
 `
 const textoOpcoes = ['CATEGORIAS', 'FAVORITOS', 'MINHA ESTANTE']
 
